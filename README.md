@@ -112,14 +112,6 @@ Full-Stack Dev         ████████████░░░░░░  6
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedMusabNajeeb&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMusabNajeeb&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 📚 **Jr. Penetration Tester Path** - TryHackMe (Active)
