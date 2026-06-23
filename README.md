@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musab-najeeb-6a801a328/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedMusabNajeeb)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musabnajeeb404@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=chrome&logoColor=white)](#)
 
 ---
 
@@ -129,7 +128,7 @@ Full-Stack Dev         ████████████░░░░░░  6
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
 I'm always interested in discussing:
 
@@ -147,5 +146,3 @@ I'm always interested in discussing:
 ---
 
  **If you find my work valuable, consider starring my repositories!**
-
-![Visitors](https://komarev.com/ghpvc/?username=SyedMusabNajeeb&style=flat-square&color=blue)
