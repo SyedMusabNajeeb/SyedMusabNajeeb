@@ -1,4 +1,4 @@
-# Hey, I'm Syed Musab Najeeb 👋
+# Hey, I'm Syed Musab Najeeb 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musab-najeeb-6a801a328/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedMusabNajeeb)
@@ -44,13 +44,13 @@ Currently pursuing the **Jr. Penetration Tester path** on TryHackMe.
 
 ## Certifications & Courses
 
-✅ **Ethical Hacking Essentials**
+**Ethical Hacking Essentials**
 EC-Council | February 2026
 
-✅ **Cybersecurity Professional Certificate**
+**Cybersecurity Professional Certificate**
 Google | February 2026
 
-✅ **Introduction to Cybersecurity**
+**Introduction to Cybersecurity**
 Cisco Networking Academy | February 2025
 
 **Currently Pursuing:** Jr. Penetration Tester Path - TryHackMe
@@ -112,7 +112,7 @@ Full-Stack Dev         ████████████░░░░░░  6
 
 ---
 -->
-## 🎯 What I'm Currently Working On
+## What I'm Currently Working On
 
 -  **Jr. Penetration Tester Path** - TryHackMe (Active)
 -  **CPTS Certification Path** - HackTheBox (Near Future)
@@ -122,11 +122,10 @@ Full-Stack Dev         ████████████░░░░░░  6
 
 ##  Why Work With Me?
 
-✅ **Proactive Learner** - Self-driven, pursuing multiple certifications
-✅ **Full-Stack Capable** - From embedded systems to web applications
-✅ **Security-Minded** - Understanding both attack and defense perspectives
-✅ **Problem Solver** - Analytical approach to complex challenges
-✅ **Open Source Contributor** - Committed to sharing knowledge
+**Proactive Learner** - Self-driven, pursuing multiple certifications
+**Security-Minded** - Understanding both attack and defense perspectives
+**Problem Solver** - Analytical approach to complex challenges
+**Open Source Contributor** - Committed to sharing knowledge
 
 ---
 
