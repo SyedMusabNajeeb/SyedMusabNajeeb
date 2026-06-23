@@ -7,15 +7,15 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a **4th-semester Computer Engineering student** at COMSATS University Islamabad, passionate about building secure systems, reverse engineering, and penetration testing. With a strong foundation in full-stack development and cybersecurity, I'm committed to creating robust solutions and identifying vulnerabilities before attackers do.
+I'm a **4th-semester Computer Engineering student** at COMSATS University Islamabad, passionate about building secure systems, reverse engineering, and penetration testing. With a strong passion and cybersecurity, I'm committed to creating robust solutions and identifying vulnerabilities before attackers do.
 
-Currently pursuing the **Jr. Penetration Tester path** on TryHackMe and working towards my **Ethical Hacking Essentials** certification.
+Currently pursuing the **Jr. Penetration Tester path** on TryHackMe.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks
 
@@ -38,11 +38,11 @@ Currently pursuing the **Jr. Penetration Tester path** on TryHackMe and working 
 
 ### Domains
 
-🔐 **Cybersecurity** | 🖥️ **Systems Design** | 📡 **Networking** | 🤖 **Embedded Systems** | 📊 **Database Design**
+**Cybersecurity** | **Systems Design** | **Networking** | **Embedded Systems** | **Database Design**
 
 ---
 
-## 🎓 Certifications & Courses
+## Certifications & Courses
 
 ✅ **Ethical Hacking Essentials**
 EC-Council | February 2026
@@ -57,9 +57,9 @@ Cisco Networking Academy | February 2025
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
-### 🔐 [Cybersecurity Learning](https://github.com/SyedMusabNajeeb/Cybersecurity_Learning)
+### [Cybersecurity Learning](https://github.com/SyedMusabNajeeb/Cybersecurity_Learning)
 
 A comprehensive learning repository documenting my cybersecurity journey with curated notes, scripts, and walkthroughs.
 
@@ -73,7 +73,7 @@ A comprehensive learning repository documenting my cybersecurity journey with cu
 
 ---
 
-### 🎓 [University Projects](https://github.com/SyedMusabNajeeb/University)
+### [University Projects](https://github.com/SyedMusabNajeeb/University)
 
 A collection of academic projects demonstrating proficiency across multiple domains.
 
@@ -99,7 +99,7 @@ A collection of academic projects demonstrating proficiency across multiple doma
 - **Digital Grand Prix** - Hardware project with logic design
 
 ---
-
+<!--
 ## 🛠️ Recent Work & Learning Focus
 
 ```plaintext
@@ -111,17 +111,16 @@ Full-Stack Dev         ████████████░░░░░░  6
 ```
 
 ---
-
+-->
 ## 🎯 What I'm Currently Working On
 
-- 📚 **Jr. Penetration Tester Path** - TryHackMe (Active)
-- 🔬 **Reverse Engineering** - Understanding malware behavior
-- 🏗️ **System Security Hardening** - Best practices & exploitation vectors
-- 🔍 **Bug Bounty Programs** - Real-world vulnerability discovery
+-  **Jr. Penetration Tester Path** - TryHackMe (Active)
+-  **CPTS Certification Path** - HackTheBox (Near Future)
+-  **OWASP TOP 10** - Actively reaseaching on each vulnerability
 
 ---
 
-## 💡 Why Work With Me?
+##  Why Work With Me?
 
 ✅ **Proactive Learner** - Self-driven, pursuing multiple certifications
 ✅ **Full-Stack Capable** - From embedded systems to web applications
@@ -135,19 +134,19 @@ Full-Stack Dev         ████████████░░░░░░  6
 
 I'm always interested in discussing:
 
-- 🔐 Cybersecurity opportunities & CTF competitions
-- 💼 Internship & career opportunities
-- 🤝 Collaboration on open-source projects
-- 💬 Technical discussions & knowledge sharing
+-  Cybersecurity opportunities & CTF competitions
+-  Internship & career opportunities
+-  Collaboration on open-source projects
+-  Technical discussions & knowledge sharing
 
 **Let's connect:**
 
-- 📧 **Email:** musabnajeeb404@gmail.com
-- 💼 **LinkedIn:** [Connect](https://www.linkedin.com/in/musab-najeeb-6a801a328/)
-- 🐙 **GitHub:** [@SyedMusabNajeeb](https://github.com/SyedMusabNajeeb)
+-  **Email:** musabnajeeb404@gmail.com
+-  **LinkedIn:** [Connect](https://www.linkedin.com/in/musab-najeeb-6a801a328/)
+-  **GitHub:** [@SyedMusabNajeeb](https://github.com/SyedMusabNajeeb)
 
 ---
 
-⭐ **If you find my work valuable, consider starring my repositories!**
+ **If you find my work valuable, consider starring my repositories!**
 
 ![Visitors](https://komarev.com/ghpvc/?username=SyedMusabNajeeb&style=flat-square&color=blue)
