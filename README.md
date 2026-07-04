@@ -24,7 +24,7 @@ Computer Engineering student focused on offensive security and systems programmi
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,codeblocks,devcpp,pycharm,idea,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,docker" />
 </p>
 
 ### Domains
