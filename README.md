@@ -96,16 +96,16 @@ Full-Stack Dev         ████████████░░░░░░  6
 -->
 ## What I'm Currently Working On
 
--  **Jr. Penetration Tester Path** - TryHackMe (Active)
--  **CPTS Certification Path** - HackTheBox (Near Future)
--  **OWASP TOP 10** - Actively reaseaching on each vulnerability
+-  **Jr. Penetration Tester Path** : TryHackMe (Active)
+-  **CPTS Certification Path** : HackTheBox (Near Future)
+-  **OWASP TOP 10** : Actively reaseaching on each vulnerability
 
 ##  Why Work With Me?
 
-**Proactive Learner** - Self-driven, pursuing multiple certifications
-**Security-Minded** - Understanding both attack and defense perspectives
-**Problem Solver** - Analytical approach to complex challenges
-**Open Source Contributor** - Committed to sharing knowledge
+ - **Proactive Learner** : Self-driven, pursuing multiple certifications
+ - **Security-Minded** : Understanding both attack and defense perspectives
+ - **Problem Solver** : Analytical approach to complex challenges
+ - **Open Source Contributor** : Committed to sharing knowledge
 
 ## Get In Touch
 
