@@ -16,7 +16,7 @@ Currently pursuing the **Jr. Penetration Tester path** on TryHackMe.
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,mysql,linux,bash,github,vscode,javascript" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,linux,bash,github,vscode" />
 </p>
 
 
