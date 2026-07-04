@@ -11,14 +11,16 @@ Computer Engineering student focused on offensive security and systems programmi
 ## Technical Skills
   
 
-### Languages & Frameworks
+### Languages 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,bash,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=linux,github,vscode,pycharm,idea,matlab,arduino,autocad" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,bash," />
 </p>
 
-
+### Frameowrks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,github,vscode,pycharm,idea,matlab,arduino,autocad" />
+</p>
 ### Tools & Technologies
 
 <p align="left">
