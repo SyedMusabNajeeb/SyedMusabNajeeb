@@ -4,15 +4,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedMusabNajeeb)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musabnajeeb404@gmail.com)
 
----
-
 ## About Me
 
 I'm a **4th-semester Computer Engineering student** at COMSATS University Islamabad, passionate about building secure systems, reverse engineering, and penetration testing. With a strong passion and cybersecurity, I'm committed to creating robust solutions and identifying vulnerabilities before attackers do.
 
 Currently pursuing the **Jr. Penetration Tester path** on TryHackMe.
-
----
 
 ## Technical Skills
   
@@ -34,8 +30,6 @@ Currently pursuing the **Jr. Penetration Tester path** on TryHackMe.
 
 **Cybersecurity** | **Systems Design** | **Networking** | **Embedded Systems** | **Database Design**
 
----
-
 ## Certifications & Courses
 
 **Ethical Hacking Essentials**
@@ -48,8 +42,6 @@ Google | February 2026
 Cisco Networking Academy | February 2025
 
 **Currently Pursuing:** Jr. Penetration Tester Path - TryHackMe
-
----
 
 ## Featured Projects
 
@@ -64,8 +56,6 @@ A comprehensive learning repository documenting my cybersecurity journey with cu
 - **Scripts:** Security testing and penetration testing tools
 
 `Python` `Bash` `Cybersecurity` `Penetration Testing`
-
----
 
 ### [University Projects](https://github.com/SyedMusabNajeeb/University)
 
@@ -92,7 +82,6 @@ A collection of academic projects demonstrating proficiency across multiple doma
 - **Automatic Plant Watering System** - IoT & sensor integration
 - **Digital Grand Prix** - Hardware project with logic design
 
----
 <!--
 ## 🛠️ Recent Work & Learning Focus
 
@@ -104,7 +93,6 @@ Network Security       ██████████░░░░░░░░  5
 Full-Stack Dev         ████████████░░░░░░  60%
 ```
 
----
 -->
 ## What I'm Currently Working On
 
@@ -112,16 +100,12 @@ Full-Stack Dev         ████████████░░░░░░  6
 -  **CPTS Certification Path** - HackTheBox (Near Future)
 -  **OWASP TOP 10** - Actively reaseaching on each vulnerability
 
----
-
 ##  Why Work With Me?
 
 **Proactive Learner** - Self-driven, pursuing multiple certifications
 **Security-Minded** - Understanding both attack and defense perspectives
 **Problem Solver** - Analytical approach to complex challenges
 **Open Source Contributor** - Committed to sharing knowledge
-
----
 
 ## Get In Touch
 
@@ -137,7 +121,5 @@ I'm always interested in discussing:
 -  **Email:** musabnajeeb404@gmail.com
 -  **LinkedIn:** [Connect](https://www.linkedin.com/in/musab-najeeb-6a801a328/)
 -  **GitHub:** [@SyedMusabNajeeb](https://github.com/SyedMusabNajeeb)
-
----
 
  **If you find my work valuable, consider starring my repositories!**
