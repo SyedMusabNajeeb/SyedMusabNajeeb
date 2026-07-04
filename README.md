@@ -21,6 +21,7 @@ Computer Engineering student focused on offensive security and systems programmi
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,github,vscode,pycharm,idea,matlab,arduino,autocad" />
 </p>
+
 ### Tools & Technologies
 
 <p align="left">
