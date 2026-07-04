@@ -6,9 +6,7 @@
 
 ## About Me
 
-I'm a **4th-semester Computer Engineering student** at COMSATS University Islamabad, passionate about building secure systems, reverse engineering, and penetration testing. With a strong passion and cybersecurity, I'm committed to creating robust solutions and identifying vulnerabilities before attackers do.
-
-Currently pursuing the **Jr. Penetration Tester path** on TryHackMe.
+Computer Engineering student focused on offensive security and systems programming. I document my learning through TryHackMe, Hack The Box, CTF write-ups, and security tooling while building a strong foundation in networking, Linux, and exploit development.
 
 ## Technical Skills
   
@@ -16,7 +14,8 @@ Currently pursuing the **Jr. Penetration Tester path** on TryHackMe.
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,linux,bash,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,bash,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,github,vscode,pycharm,idea,matlab,arduino,autocad" />
 </p>
 
 
@@ -87,7 +86,6 @@ A collection of academic projects demonstrating proficiency across multiple doma
 
 ```plaintext
 Penetration Testing    ████████████░░░░░░  70%
-Reverse Engineering    ██████░░░░░░░░░░░░  30%
 System Security        ████████░░░░░░░░░░  40%
 Network Security       ██████████░░░░░░░░  50%
 Full-Stack Dev         ████████████░░░░░░  60%
@@ -96,16 +94,16 @@ Full-Stack Dev         ████████████░░░░░░  6
 -->
 ## What I'm Currently Working On
 
--  **Jr. Penetration Tester Path** : TryHackMe (Active)
--  **CPTS Certification Path** : HackTheBox (Near Future)
--  **OWASP TOP 10** : Actively reaseaching on each vulnerability
+-  **Jr. Penetration Tester Path**: TryHackMe (Active)
+-  **CPTS Certification Path**: HackTheBox (Near Future)
+-  **OWASP TOP 10**: Actively reaseaching on each vulnerability
 
 ##  Why Work With Me?
 
- - **Proactive Learner** : Self-driven, pursuing multiple certifications
- - **Security-Minded** : Understanding both attack and defense perspectives
- - **Problem Solver** : Analytical approach to complex challenges
- - **Open Source Contributor** : Committed to sharing knowledge
+ - **Proactive Learner**: Self-driven, pursuing multiple certifications
+ - **Security-Minded**: Understanding both attack and defense perspectives
+ - **Problem Solver**: Analytical approach to complex challenges
+ - **Knowledge Sharing**: Publishing learning notes, scripts, and walkthroughs while documenting my cybersecurity journey.
 
 ## Get In Touch
 
@@ -113,7 +111,6 @@ I'm always interested in discussing:
 
 -  Cybersecurity opportunities & CTF competitions
 -  Internship & career opportunities
--  Collaboration on open-source projects
 -  Technical discussions & knowledge sharing
 
 **Let's connect:**
