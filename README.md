@@ -33,6 +33,9 @@ Computer Engineering student focused on offensive security and systems programmi
 
 ## Certifications & Courses
 
+**Pre Secuirty & Cyber Security 101**
+TryHackMe | June-July 2026
+
 **Ethical Hacking Essentials**
 EC-Council | February 2026
 
@@ -96,7 +99,7 @@ Full-Stack Dev         ████████████░░░░░░  6
 -->
 ## What I'm Currently Working On
 
--  **Jr. Penetration Tester Path**: TryHackMe (Active)
+-  **Penetration Tester Path**: HackTheBox (Active)
 -  **CPTS Certification Path**: HackTheBox (Near Future)
 -  **OWASP TOP 10**: Actively reaseaching on each vulnerability
 
@@ -105,7 +108,6 @@ Full-Stack Dev         ████████████░░░░░░  6
  - **Proactive Learner**: Self-driven, pursuing multiple certifications
  - **Security-Minded**: Understanding both attack and defense perspectives
  - **Problem Solver**: Analytical approach to complex challenges
- - **Knowledge Sharing**: Publishing learning notes, scripts, and walkthroughs while documenting my cybersecurity journey.
 
 ## Get In Touch
 
