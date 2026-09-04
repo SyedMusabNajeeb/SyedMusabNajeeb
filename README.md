@@ -33,19 +33,17 @@ Computer Engineering student focused on offensive security and systems programmi
 
 ## Certifications & Courses
 
-**Pre Secuirty & Cyber Security 101**
+**Pre Secuirty & Cyber Security 101**  
 TryHackMe | June-July 2026
 
-**Ethical Hacking Essentials**
+**Ethical Hacking Essentials**  
 EC-Council | February 2026
 
-**Cybersecurity Professional Certificate**
+**Cybersecurity Professional Certificate**  
 Google | February 2026
 
-**Introduction to Cybersecurity**
+**Introduction to Cybersecurity**  
 Cisco Networking Academy | February 2025
-
-**Currently Pursuing:** Jr. Penetration Tester Path - TryHackMe
 
 ## Featured Projects
 
